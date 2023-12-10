@@ -44,7 +44,7 @@ section {
     }
 
     section img.background {
-        width: 100vmax;
+        width: 100%;
         height: 100%;
         z-index: -1;
         position: absolute;
@@ -270,7 +270,7 @@ img.social-icon {
         }*/
 
     .home-scroll-down {
-        bottom: 1rem;
+        bottom: 4rem;
         left: 85%;
     }
 
