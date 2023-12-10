@@ -44,7 +44,7 @@ section {
     }
 
     section img.background {
-        width: 100%;
+        width: 100vmax;
         height: 100%;
         z-index: -1;
         position: absolute;
@@ -270,12 +270,16 @@ img.social-icon {
         }*/
 
     .home-scroll-down {
-        bottom: 4rem;
-        left: 85%;
+        bottom: 5rem;
+        left: 82%;
     }
 
     section img.background {
         left: 34%;
         transform: translate(-34%, 0);
+    }
+
+    section about-bck {
+        width: 100%;
     }
 }
